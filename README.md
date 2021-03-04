@@ -14,7 +14,7 @@ First clone the repository:
 git clone https://github.com/bulletfinance/bulletswap-sdk.git
 ```
 
-Move into the pancakeswap-sdk working directory
+Move into the bulletswap-sdk working directory
 
 ```sh
 cd bulletswap-sdk/
